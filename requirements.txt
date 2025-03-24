@@ -1,0 +1,8 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+plotly>=5.0.0
+kaleido
+psutil  # Necessário para alguns recursos do Plotly
